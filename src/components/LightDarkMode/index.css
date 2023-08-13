@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.light-container {
+  border: 1px #000000 solid;
+  text-align: center;
+  font-family: 'Roboto';
+  margin: 20%;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.dark-container {
+  background-color: #000000;
+  border: 1px #000000 solid;
+  text-align: center;
+  font-family: 'Roboto';
+  margin: 20%;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.light-heading {
+  color: #ffffff;
+}
+
+.dark-heading {
+  color: #000000;
+}
+
+.button {
+  border: 1px #000000 solid;
+  border-radius: 6px;
+  padding: 8px;
+}
